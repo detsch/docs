@@ -10,3 +10,4 @@ Docker
    containers
    container-secrets
    compose-apps
+   caching
