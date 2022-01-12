@@ -75,7 +75,7 @@ Example file contents::
   SRC_URI[md5sum] = "5f012791118fe99990d9422cf560edf3"
   SRC_URI[sha256sum] = "984d7e607b0a5d1329425dd8845bd971b957424b5ba664729fab51ab8c11bc39"
 
-  inherit setuptools pypi
+  inherit setuptools3 pypi
 
   DEPENDS += " \
         python3-pip \
